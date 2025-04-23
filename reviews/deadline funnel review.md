@@ -18,11 +18,10 @@ Whether you’re running a live product launch or an evergreen webinar,
 Deadline Funnel syncs countdown timers across emails, landing pages, and order forms, ensuring your prospects feel the heat to act fast.
 
 Unlike generic countdown plugins that reset with a page refresh, Deadline Funnel tracks each user via a digital fingerprint (think IP addresses, 
-cookies, and some clever “secret sauce”). This means no cheating once a deadline expires, it’s game over for that offer, redirecting users to
+cookies, and some clever “secret sauce”). This means no cheating; once a deadline expires, it’s game over for that offer, redirecting users to
 a “sorry, you missed it” page. It integrates seamlessly with tools like ClickFunnels, Teachable, and Mailchimp, making it a favorite among 
 digital marketers since its debut over a decade ago.
 
-![image](https://github.com/user-attachments/assets/e743411a-5da1-45d1-8624-386b354d9cdd)
 
 ## Key Features of Deadline Funnel
 
