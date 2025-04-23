@@ -130,6 +130,11 @@ Lower tiers cap your landing pages and features, which can feel restrictive if y
 | **Smart Traffic**: Automatically directs visitors to the most relevant landing page for higher conversions. | **Price Per User**: Pricing increases with the addition of more users. |
 
 ---
+### Quick Links
+- [Deadline Funnel Review](https://github.com/digiexe-official/Reviews/blob/main/reviews/deadline%20funnel%20review.md)
+- [Jungle Scout Review](https://github.com/digiexe-official/Reviews/blob/main/reviews/jungle%20scout%20review.md)
+- [Thinkific Review](https://github.com/digiexe-official/Reviews/blob/main/reviews/thinkific%20review.md)
+
 
 ## Conclusion- Is Unbounce A Good WordPress landing page and conversion platform?
 
