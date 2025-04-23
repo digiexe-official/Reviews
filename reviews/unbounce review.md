@@ -131,9 +131,9 @@ Lower tiers cap your landing pages and features, which can feel restrictive if y
 
 ---
 ### Quick Links
-- [Deadline Funnel Review](https://github.com/digiexe-official/Reviews/blob/main/reviews/deadline%20funnel%20review.md)
-- [Jungle Scout Review](https://github.com/digiexe-official/Reviews/blob/main/reviews/jungle%20scout%20review.md)
-- [Thinkific Review](https://github.com/digiexe-official/Reviews/blob/main/reviews/thinkific%20review.md)
+- [Deadline Funnel Review](https://github.com/digiexe-official/Reviews/blob/3a7f0ab19d51091c7037f6bd8e366c2088ab1ae2/reviews/deadline%20funnel%20review.md)
+- [Jungle Scout Review](https://github.com/digiexe-official/Reviews/blob/3a7f0ab19d51091c7037f6bd8e366c2088ab1ae2/reviews/jungle%20scout%20review.md)
+- [Thinkific Review](https://github.com/digiexe-official/Reviews/blob/3a7f0ab19d51091c7037f6bd8e366c2088ab1ae2/reviews/thinkific%20review.md)
 
 
 ## Conclusion- Is Unbounce A Good WordPress landing page and conversion platform?
