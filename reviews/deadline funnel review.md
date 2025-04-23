@@ -5,14 +5,14 @@ you’ve likely stumbled across Deadline Funnel. This tool promises to turn proc
 But does it deliver in 2025, with a crowded market of alternatives vying for attention? 
 
 In this blog, I’ll break down its features, pricing, 
-pros, cons, and my personal experience Plus, I’ll link to an excellent companion review from DigiExe ([check it out here](https://digiexe.com/blog/deadline-funnel-review/)) for even more insights. 
+pros, cons, and my personal experience. Plus, I’ll link to an excellent companion review from DigiExe ([check it out here](https://digiexe.com/blog/deadline-funnel-review/)) for even more insights. 
 Let’s dive in and see if Deadline Funnel is the missing piece in your marketing toolkit.
 
 ## What is Deadline Funnel?
 
 Deadline Funnel is a cloud-based marketing tool designed to create authentic scarcity in your sales funnels. 
 Launched by Jack Born, a former Merrill Lynch employee turned software innovator, it’s built for one core purpose: 
-to drive conversions by setting personalized, tamperproof deadlines. 
+To drive conversions by setting personalized, tamperproof deadlines. 
 
 Whether you’re running a live product launch or an evergreen webinar, 
 Deadline Funnel syncs countdown timers across emails, landing pages, and order forms, ensuring your prospects feel the heat to act fast.
@@ -22,6 +22,7 @@ cookies, and some clever “secret sauce”). This means no cheating; once a dea
 a “sorry, you missed it” page. It integrates seamlessly with tools like ClickFunnels, Teachable, and Mailchimp, making it a favorite among 
 digital marketers since its debut over a decade ago.
 
+![Deadline Funnel Review](https://github.com/digiexe-official/Reviews/blob/main/imgs/deadlinefunnel/deadline%20funnel%20review.png)
 
 ## Key Features of Deadline Funnel
 
@@ -32,7 +33,7 @@ Evergreen: Each lead gets a unique countdown based on when they enter your funne
 Fixed: Everyone shares the same deadline (e.g., a Black Friday sale ending April 10, 2025). Ideal for live launches or seasonal promotions.
 
 ### 2. Uncheatable Countdown Timers
-The star feature: Timers sync across devices and platforms. I tested this by switching browsers, using incognito mode, and even spoofing my IP, but it didn't work.
+The star feature: Timers sync across devices and platforms. I tested this by switching browsers, using Incognito mode, and even spoofing my IP address, but it didn't work.
 Once your timer’s up, you’re locked out. This authenticity builds trust and drives action.
 
 ### 3. Email and OnPage Integration
@@ -44,23 +45,21 @@ Deadline Funnel plays nice with over 50 tools, including:
 **Website Builders:** WordPress, Squarespace, ClickFunnels.
 **Email Platforms:** ConvertKit, ActiveCampaign.
 **Course Tools:** Teachable, Kajabi.
-A Zapier hookup covers anything else, making it developer-friendly, too.
+A Zapier integration covers everything else, making it developer-friendly as well.
 
 ### 5. Analytics and Tracking
 Get real-time stats on leads, timer views, and conversions. It’s not as deep as Google Analytics, but it’s enough to tweak campaigns on the fly.
 
 For a deeper dive into how these features work in practice, the DigiExe review (linked here) offers a great marketer’s perspective.
 
-<img width="380" alt="image" src="https://github.com/user-attachments/assets/d03725bc-cdb6-4580-83cf-9770f82facbe" />
-
+![Deadline Funnel Features](https://github.com/digiexe-official/Reviews/blob/main/imgs/deadlinefunnel/deadline%20funnel%20subscription.png)
 
 ## Deadline Funnel Pricing: Is It Worth the Cost?
-As of today, Deadline Funnel’s pricing tiers cater to different scales of operation. 
+As of today, Deadline Funnel’s pricing tiers are tailored to various operational scales. 
 
 Here’s the breakdown:
 
-[![image](https://github.com/user-attachments/assets/ead2dd73-710a-446a-83a8-f52a1d7c65ce)
-](https://www.crowdmob.com/recommends/deadlinefunnel/)
+![Deadline Funnel Pricing](https://github.com/digiexe-official/Reviews/blob/main/imgs/deadlinefunnel/deadline%20funnel%20subscription.png) (https://www.crowdmob.com/recommends/deadlinefunnel/)
 
 ### Start Plan: $49/month
 - 3 campaigns, 1,000 leads/month, basic timers.
