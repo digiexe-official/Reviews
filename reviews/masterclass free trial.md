@@ -47,7 +47,7 @@ Why Annual? MasterClass only offers yearly subscriptions, but the cost breaks do
 
 Trial Tip: Start with the Individual plan for the lowest upfront cost, then upgrade if you love it.
 
-![Masterclass Pricing](https://github.com/digiexe-official/Reviews/blob/main/imgs/masterclass/masterclass%20pricing.png)]
+![Masterclass Pricing](https://github.com/digiexe-official/Reviews/blob/main/imgs/masterclass/masterclass%20pricing.png)
 
 ## 5 Ways to Try MasterClass for Free
 
@@ -123,12 +123,10 @@ MasterClass is an online learning platform that pairs world-renowned instructors
 
 **Elite Instructors:** Learn from the best—think Serena Williams, Alicia Keys, or Bill Nye.
 **Diverse Topics:** From filmmaking to physics to mindfulness, there’s something for everyone.
-**Flexible Learning:** Watch anytime, anywhere—on desktop, mobile, or TV apps.
+**Flexible Learning:** Watch anytime, anywhere—on desktops, mobile devices, or TV apps.
 **Premium Production:** Lessons feel like mini-documentaries with stunning visuals and sound.
 **Community Access:** Engage with fellow learners and join exclusive Q&A sessions.
 
-[<img width="348" alt="image" src="https://github.com/user-attachments/assets/b5d6be34-7169-4dc9-94d2-01e327b14167" />
-](https://www.bloggersideas.com/Recommended/masterclass/)
 
 ## Course Categories
 
