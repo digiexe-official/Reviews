@@ -7,8 +7,8 @@ Hey there! If you’re an Amazon seller—or dreaming of becoming one—you’ve
 
 I’ve explored its features, tinkered with the dashboard, and even compared it to other major players in the Amazon market. In this review, I’m spilling all the details—what I loved, what I didn’t, and whether it’s worth your hard-earned cash. Let’s get into it!
 
-![image](https://github.com/user-attachments/assets/2338f03a-7059-4e07-bde2-a4c2ae5fbf15)
-
+![Jungle Scout Review
+](https://github.com/digiexe-official/Reviews/blob/main/imgs/junglescout/jungle%20scout%20review.png)
 
 ## 🧠 What’s Jungle Scout All About?
 
@@ -49,11 +49,11 @@ These are the heart of Jungle Scout’s research power. The Product Database let
 
 This gem highlights niches and keywords with big potential—low competition, high demand, and even seasonality insights.
 
-Real Talk: I plugged in “desk plants” on a whim and was shocked at the traffic with barely any sellers fighting over it. The Niche Score (1–10) is a clutch little metric that tells you straight-up if it’s worth pursuing.
+Real Talk: I plugged in “desk plants” on a whim and was shocked at the traffic with barely any sellers fighting over it. The Niche Score (1–10) is a concise metric that tells you straight up if it’s worth pursuing.
 
 ### 3. Keyword Scout – ⭐ 8.5/10
 
-Think of this as your Amazon-specific keyword guru. It dishes out real search volumes, PPC costs, and trends straight from Amazon’s data.
+Think of this as your Amazon-specific keyword guru. It provides real search volumes, PPC costs, and trends directly from Amazon’s data.
 
 Why It’s Cool: I used it to peek into a competitor’s top listing and snagged some killer keywords. It’s like having X-ray vision for what’s working.
 
@@ -163,8 +163,7 @@ Jungle Scout enhances Amazon advertising strategies with data-driven insights.
 
 Here’s the scoop on pricing:
 
-<img width="613" alt="image" src="https://github.com/user-attachments/assets/f1ec1af7-3daa-4277-847c-b5f347c46adc" />
-
+![Jungle Scout Pricing](https://github.com/digiexe-official/Reviews/blob/main/imgs/junglescout/jungle%20scout%20pricing.png)
 
 | Plan | Monthly  | Yearly (Save 55%)|
 | ------------- | ------------- | ------------- | 
@@ -191,6 +190,8 @@ How does it stack up against the competition? Here’s a quick face-off:
 Verdict: Jungle Scout takes the crown for simplicity, accuracy, and bang for your buck, especially if you’re new or mid-level. Helium 10 has more features, but it’s trickier to master.
 
 ## 📈 A Real-Life Win (Client Case Study)
+
+![Jungle Scout Case Study](https://github.com/digiexe-official/Reviews/blob/main/imgs/junglescout/jungle%20scout%20features.png)
 
 Let me tell you about a client of mine in the “**home fitness**” niche. Here’s how Jungle Scout worked its magic:
 
