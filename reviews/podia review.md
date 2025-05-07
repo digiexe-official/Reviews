@@ -37,8 +37,9 @@ journey using Podia to bring my ideas to life.
 | **Free Migrations**              | ✅ Up to 20 products                        | ✅ Up to 30 products                         |
 
 > ✅ All plans come with a **30-day free trial** and no credit card required.
-> ![Podia Pricing](https://github.com/digiexe-official/Reviews/blob/main/imgs/podia/podia%20review.png)
->
+
+![Podia Pricing](https://github.com/digiexe-official/Reviews/blob/main/imgs/podia/podia%20review.png)
+
 > [![Start Your Free Trial on Podia](https://img.shields.io/badge/Try%20Podia%20Free-%20Click%20Here-brightgreen?style=for-the-badge)](https://crowdmob.com/recommends/podia-3/)
 
 
